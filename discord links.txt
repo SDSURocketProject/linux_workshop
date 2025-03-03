@@ -1,0 +1,9 @@
+Server Documentation: https://docs.google.com/document/d/1sSBaG7p5l4aCW1aX8Vc1NCNfhimlEABj58J6s9kTcJQ/edit?tab=t.0
+
+
+VNC:
+windows: https://vnc-viewer.en.softonic.com/
+mac: https://www.realvnc.com/en/connect/download/viewer/macos/
+
+Tailscale: https://tailscale.com/download # Github login info on page 3 of the documentation (Tailnet Access)
+

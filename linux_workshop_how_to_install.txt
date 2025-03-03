@@ -1,0 +1,10 @@
+install rasbian with raspberry pi imager
+boot raspberry pi
+connect to wifi
+top left pi logo icon > preferences > raspberry pi config
+interfaces > ssh on + vnc on
+open terminal and run commands
+wget https://raw.githubusercontent.com/SDSURocketProject/linux_workshop/refs/heads/master/linux_workshop_installer.sh
+sudo chmod 777 ./linux_workshop_installer.sh
+sudo ./linux_workshop_installer.sh
+sign into tailscale with one of the rp tailscale accounts

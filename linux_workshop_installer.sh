@@ -2,7 +2,8 @@
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get autoremove -y
-curl -fsSL https://tailscale.com/install.sh | shsudo apt-get install ca-certificates curl
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
 sudo curl -fsSL https://download.docker.com/linux/raspbian/gpg -o /etc/apt/keyrings/docker.asc
 sudo chmod a+r /etc/apt/keyrings/docker.asc
